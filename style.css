@@ -17,3 +17,32 @@ header {
     padding-top: 10px;
     margin-bottom: 40px;
 }
+
+/*Main styles*/
+main {
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 10px;
+}
+
+main section {
+    padding: 0 50px;
+}
+
+section#buttons {
+    padding-top: 12px;
+    padding-bottom: 9px;
+    border-bottom: 2px solid rgba(246,248,249,255);
+}
+
+button {
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: 1px solid rgba(216,221,224,255);
+    background-color: white;
+}
+
+.task-button{
+    background-color: rgba(20,170,245,255);
+}
