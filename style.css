@@ -1,0 +1,19 @@
+/*Reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(246,248,249,255);
+}
+
+/*Header styles*/
+header {
+    background-color: white;
+    height: 70px;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-bottom: 40px;
+}
